@@ -1,0 +1,3 @@
+# Module qualitymetrics
+# RPC service class, partial path of RPC policy file
+qualitymetrics.client.DB, 5D85686A313F6F9A6F718CDD7EF1D29C.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: qualitymetrics.client.DB
+path: 5D85686A313F6F9A6F718CDD7EF1D29C.gwt.rpc
